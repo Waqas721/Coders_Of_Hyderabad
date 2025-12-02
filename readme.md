@@ -19,11 +19,11 @@ You meet halfway at **Morninglab Café**, and begin the mission.
 
 ## 📂 Project Structure
 
-├── finaldata.txt              # Raw final Instagram text data (scraped chunks) by Haris and Sam
-├── coders_of_Hyderabad.ipynb  # Jupyter notebook with parsing + analysis
-├── data.json                  # Final cleaned JSON output
-├── intialdata.txt             # Raw Instagram text data (starting point)
-└── README.md                  # This file
+├── finaldata.txt # Raw final Instagram text data (scraped chunks) by Haris and Sam
+├── coders_of_Hyderabad.ipynb # Jupyter notebook with parsing + analysis
+├── data.json # Final cleaned JSON output
+├── intialdata.txt # Raw Instagram text data (starting point)
+└── README.md # This file
 
 
 ---
